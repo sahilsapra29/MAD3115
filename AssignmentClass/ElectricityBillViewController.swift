@@ -3,7 +3,7 @@
 //  AssignmentClass
 //
 //  Created by MacStudent on 2018-08-08.
-//  Copyright © 2018 Akshdeep. All rights reserved.
+//  Copyright © 2018 shivam. All rights reserved.
 //
 
 import UIKit
@@ -15,7 +15,22 @@ class ElectricityBillsViewController: UIViewController {
         
         // Do any additional setup after loading the view.
     }
-    
+   
+ 
+    @IBAction func Id(_ sender: Any) {
+    }
+    @IBAction func segment(_ sender: Any) {
+    }
+    @IBAction func Name(_ sender: Any) {
+    }
+    @IBAction func totalBillAmount(_ sender: Any) {
+    }
+    @IBAction func SelectDate(_ sender: Any) {
+    }
+    @IBAction func Email(_ sender: Any) {
+    }
+    @IBAction func UnitConsumed(_ sender: Any) {
+    }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.

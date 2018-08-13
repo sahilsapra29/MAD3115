@@ -3,18 +3,19 @@
 //  AssignmentClass
 //
 //  Created by MacStudent on 2018-08-08.
-//  Copyright © 2018 Akshdeep. All rights reserved.
+//  Copyright © 2018 shivam. All rights reserved.
 //
 
 import UIKit
 
 class LoginViewController: UIViewController {
     
-    @IBOutlet weak var lblRememberMe: UILabel!
-    @IBOutlet weak var swtSwitch: UISwitch!
-    @IBOutlet weak var btnLogin: UIButton!
-    @IBOutlet weak var txtPassword: UITextField!
-    @IBOutlet weak var txtEmailAddress: UITextField!
+ 
+    @IBOutlet weak var EmailID: UITextField!
+    @IBOutlet weak var Password: UITextField!
+    @IBOutlet weak var Switch: UISwitch!
+    @IBOutlet weak var RememberMe: UILabel!
+    @IBOutlet weak var login: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
         

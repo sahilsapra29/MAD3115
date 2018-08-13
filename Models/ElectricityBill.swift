@@ -37,4 +37,4 @@ class Electricitybill{
         return total
     }
     
-}   
+} 

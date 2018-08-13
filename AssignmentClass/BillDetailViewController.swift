@@ -4,7 +4,7 @@
 //  AssignmentClass
 //
 //  Created by MacStudent on 2018-08-08.
-//  Copyright © 2018 Akshdeep. All rights reserved.
+//  Copyright © 2018 shivam. All rights reserved.
 //
 
 import UIKit
